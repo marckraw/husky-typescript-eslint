@@ -5,3 +5,8 @@ function someFunction(someParam) {
 }
 
 console.log(someFunction('World'))
+
+const someWeirdValue = 1
+
+const dupsko = someFunction(1)
+console.log(dupsko)
