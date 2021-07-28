@@ -1,6 +1,6 @@
 console.log('eg')
 
-function someFunction(someParam) {
+function someFunction(someParam: string | number) {
     return `Hello ${someParam}`
 }
 
@@ -10,3 +10,5 @@ const someWeirdValue = 1
 
 const dupsko = someFunction(1)
 console.log(dupsko)
+
+const ehhWhatever = 1
