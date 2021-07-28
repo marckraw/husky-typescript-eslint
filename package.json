@@ -19,7 +19,7 @@
   "scripts": {
     "eslint": "eslint",
     "eslint:fix:js": "eslint -c ./.eslintrc.js --fix",
-    "eslint:fix:ts": "eslint -c ./.tslintrc.js.js --fix",
+    "eslint:fix:ts": "eslint -c ./.tslintrc.js --fix",
     "test": "echo 'running tests....'",
     "lint-staged": "lint-staged",
     "prepare": "husky install"

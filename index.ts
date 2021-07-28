@@ -1,6 +1,10 @@
 const dupa = 'asdasd';
 
-const something = 'jbdkjfhsf';
-
 console.log(dupa);
-console.log(something);
+
+function something(someParam): Number {
+  console.log(someParam);
+  return `${someParam} World`;
+}
+
+something('hello');
