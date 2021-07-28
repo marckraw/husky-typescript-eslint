@@ -12,5 +12,5 @@ console.log(someWeirdasdasdasdasdasdasdaasdasdValue)
 const dupsko = someFunction(1)
 console.log(dupsko)
 
-const ehhWhaasdasdstever = 1
-console.log(ehhWhaasdasdstever)
+const ehhWhaasdasdsteasdasdver = 1
+console.log(ehhWhaasdasdsteasdasdver)
