@@ -20,7 +20,7 @@
   "scripts": {
     "start": "yarn build && node build/index.js",
     "build": "rm -rf ./build && yarn build:ts",
-    "build:ts": "yarn eslint:fix:ts && tsc",
+    "build:ts": "yarn eslint:fix:ts && tsc --config ./tsconfig.json",
     "eslint:fix:js": "eslint -c ./.eslintrc.js --fix",
     "eslint:fix:ts": "eslint -c ./.eslintrc.js --fix",
     "test": "echo 'running tests....'",
