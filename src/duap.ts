@@ -6,9 +6,11 @@ function someFunction(someParam: string | number) {
 
 console.log(someFunction('World'))
 
-const someWeirdasdasdasdaasdasdValue = 1
+const someWeirdasdasdasdasdasdasdaasdasdValue = 1
+console.log(someWeirdasdasdasdasdasdasdaasdasdValue)
 
 const dupsko = someFunction(1)
 console.log(dupsko)
 
 const ehhWhaasdasdstever = 1
+console.log(ehhWhaasdasdstever)
