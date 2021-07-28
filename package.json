@@ -21,7 +21,7 @@
     "start": "yarn build && node build/index.js",
     "build": "rm -rf ./build && yarn eslint:fix:ts && yarn build:ts",
     "build:ts": "tsc",
-    "eslint:fix:js": "eslint -c ./.eslintrc.js --fix",
+    "eslint:fix:js": "eslint -c ./.eslintrc.js --fix .",
     "eslint:fix:ts": "eslint -c ./.eslintrc.js --fix",
     "test": "echo 'running tests....'",
     "lint-staged": "lint-staged",
