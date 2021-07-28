@@ -6,8 +6,8 @@ function someFunction(someParam: string | number) {
 
 console.log(someFunction('World'))
 
-const someWeirdasdasdasdasdasdasdaasdasdValue = 1
-console.log(someWeirdasdasdasdasdasdasdaasdasdValue)
+const asd = 1
+console.log(asd)
 
 const dupsko = someFunction(1)
 console.log(dupsko)
