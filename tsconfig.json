@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "strictNullChecks": true,
+    "outDir": "/lib",
+    "jsx": "react",
+    "types": [],
+    "target": "es5",
+    "module": "es2020",
+    "moduleResolution": "node",
+    "noResolve": false,
+    "esModuleInterop": true,
+    "lib": ["es6", "dom"],
+    "noImplicitAny": true,
+    "removeComments": true,
+    "sourceMap": false
+  },
+  "exclude": ["node_modules"],
+  "include": []
+}
