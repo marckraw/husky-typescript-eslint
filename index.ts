@@ -4,7 +4,8 @@ console.log(dupa);
 
 function something(someParam): Number {
   console.log(someParam);
-  return `${someParam} World`;
+  const whatever = 1;
+  return `${someParam} World ${whatever}`;
 }
 
 something('hello');
