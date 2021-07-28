@@ -11,4 +11,4 @@ const someWeirdasdasdValue = 1
 const dupsko = someFunction(1)
 console.log(dupsko)
 
-const ehhWhatever = 1
+const ehhWhaasdasdstever = 1
