@@ -10,3 +10,5 @@
 // something('hello');
 
 const something = 'asdasd'
+
+console.log(something)
