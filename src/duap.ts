@@ -6,7 +6,7 @@ function someFunction(someParam: string | number) {
 
 console.log(someFunction('World'))
 
-const someWeirdasdasdValue = 1
+const someWeirdasdasdasdasdValue = 1
 
 const dupsko = someFunction(1)
 console.log(dupsko)
